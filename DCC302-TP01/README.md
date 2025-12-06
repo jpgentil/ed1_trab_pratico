@@ -2,8 +2,8 @@ Para executar:
 
 Se você tiver o GCC instalado (via MinGW ou WSL no Windows), basta rodar os dois comandos a seguir no terminal do VS Code: 
 
-gcc -o programa main.c dicionario.c
-./programa
+1. gcc -o programa main.c dicionario.c
+2. /programa
 
 ---
 
@@ -36,3 +36,4 @@ Extras (obrigatórios):
 -- Permitir exclusão de uma palavra do índice e atualização das listas.
 
 -- Calcular e exibir a palavra mais frequente no texto.
+
