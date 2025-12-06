@@ -1,12 +1,3 @@
-Para executar:
-
-Se você tiver o GCC instalado (via MinGW ou WSL no Windows), basta rodar os dois comandos a seguir no terminal do VS Code: 
-
-1. gcc -o programa main.c dicionario.c
-2. /programa
-
----
-
 Objetivo: O trabalho consiste em implementar uma versão simplificada de um índice invertido utilizado em motores de busca. 
 
 Entrada: Um arquivo no formato .txt, contendo várias strings em várias linhas. (exemplo: um arquivo com frases, cada uma em uma linha diferente)
@@ -32,8 +23,8 @@ Palavra2 : (X,Y), (X,Y)
 Onde X e Y são o numero da linha e a quantidade de vezes que a palavra apareceu na linha indicada, respectivamente.
 
 Extras (obrigatórios): 
--- Implementar busca de palavra no índice (entrada pelo teclado).
--- Permitir exclusão de uma palavra do índice e atualização das listas.
+- Implementar busca de palavra no índice (entrada pelo teclado).
+- Permitir exclusão de uma palavra do índice e atualização das listas.
+- Calcular e exibir a palavra mais frequente no texto.
 
--- Calcular e exibir a palavra mais frequente no texto.
 
