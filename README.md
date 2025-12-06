@@ -13,5 +13,5 @@ O projeto foi dividido em 3 arquivos principais:
   - dicionario.h      → Interface do TAD (tipos e assinaturas)
   - dicionario.c      → Implementação das operações do TAD
   - main.c            → Leitura do arquivo + integração geral
-  - - teste.txt       → Arquivo para teste do programa
+  - teste.txt       → Arquivo para teste do programa
 
