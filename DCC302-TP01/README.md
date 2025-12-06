@@ -1,19 +1,19 @@
 # Trabalho Prático 01 - DCC302
 ## Índice Invertido Simplificado
 
-### Objetivo
+### Objetivo:
 Implementar uma versão simplificada de um índice invertido utilizado em motores de busca.
 
 ---
 
-### Entrada
+### Entrada:
 Um arquivo no formato `.txt` contendo várias strings em várias linhas.
 
 **Exemplo:** Um arquivo com frases, cada uma em uma linha diferente.
 
 ---
 
-### Requisitos
+### Requisitos:
 
 1. **Leitura e Dicionário:** Ler o arquivo e construir um dicionário com todas as palavras distintas.
 
@@ -27,7 +27,7 @@ Um arquivo no formato `.txt` contendo várias strings em várias linhas.
 
 ---
 
-### Descrição de Funcionamento
+### Descrição de Funcionamento:
 
 O algoritmo implementado deve varrer o texto e criar um vetor contendo a lista de palavras (sem repetições) encontradas no arquivo inteiro (esse é o dicionário). 
 
@@ -37,7 +37,7 @@ Se a palavra do dicionário aparecer em mais de uma linha, a lista encadeada dev
 
 ---
 
-### Saída do Programa
+### Saída do Programa:
 
 O programa deve imprimir no terminal a lista invertida criada a partir do arquivo texto dado como entrada, no seguinte formato:
 
@@ -52,7 +52,7 @@ Onde:
 
 ---
 
-### Funcionalidades Extras (Obrigatórias)
+### Funcionalidades Extras (Obrigatórias):
 
 - ✅ Implementar busca de palavra no índice (entrada pelo teclado)
 - ✅ Permitir exclusão de uma palavra do índice e atualização das listas
